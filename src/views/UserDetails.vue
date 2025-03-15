@@ -65,20 +65,6 @@ const goBack = () => {
 };
 </script>
 <style>
-.main {
-  width: 80vw;
-  margin: auto;
-}
-input,
-select {
-  width: 50%;
-  height: 40px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 0 10px;
-  font-size: 16px;
 
-  display: block;
-  text-align: end;
-}
+
 </style>

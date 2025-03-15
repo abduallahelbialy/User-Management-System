@@ -175,11 +175,8 @@ const exportToPDF = () => {
 };
 </script>
 
-<style >
-.main {
-  width: 80vw;
-  margin: auto;
-}
+<style  >
+
 .searchQuery{
   width: 350px !important;
   height: 40px;
@@ -203,7 +200,5 @@ td {
   text-align: left;
   border-bottom: 1px solid #ddd;
 }
-/* tbody tr:nth-child(even) {
-  background-color: #f2f2f2;
-} */
+
 </style>
